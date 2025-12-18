@@ -1,12 +1,4 @@
-/**
- * Advent of Code 2020 — Day 2: Password Philosophy (Part 1)
- *
- * Each line looks like:
- *   "1-3 a: abcde"
- * Meaning:
- * - the letter is 'a'
- * - it must appear at least 1 time and at most 3 times in the password
- *
+/*
  * Node.js documentation used:
  * - fs.readFileSync:
  *   https://nodejs.org/api/fs.html#fsreadfilesyncpath-options

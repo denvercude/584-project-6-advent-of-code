@@ -1,15 +1,4 @@
-/**
- * Advent of Code 2020 — Day 4: Passport Processing (Part 1)
- *
- * Part 1 rules:
- * - Each passport is a bunch of key:value fields separated by spaces and/or newlines.
- * - Passports are separated by a blank line.
- * - A passport is valid if it has ALL required fields.
- * - cid is optional (so we ignore it for validity).
- *
- * Required fields:
- * byr, iyr, eyr, hgt, hcl, ecl, pid
- *
+/*
  * Node.js documentation used:
  * - fs.readFileSync:
  *   https://nodejs.org/api/fs.html#fsreadfilesyncpath-options

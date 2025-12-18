@@ -1,4 +1,4 @@
-/**
+/*
  * Advent of Code 2020 — Day 1: Report Repair
  *
  * Node.js documentation used:

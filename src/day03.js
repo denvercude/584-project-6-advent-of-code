@@ -1,14 +1,4 @@
-/**
- * Advent of Code 2020 — Day 3: Toboggan Trajectory (Part 1)
- *
- * Goal:
- * - Traverse the map using slope: right 3, down 1
- * - Count how many trees (#) we hit.
- *
- * Important detail:
- * - The pattern repeats to the right forever, so when col goes past the row width,
- *   we wrap it back around using modulo.
- *
+/*
  * Node.js documentation used:
  * - fs.readFileSync:
  *   https://nodejs.org/api/fs.html#fsreadfilesyncpath-options
